@@ -57,11 +57,11 @@ User Experience: The interface is designed to be user-friendly, with clearly lab
 
 1. Clone the Repository:
 Clone this repository to your local machine using the following command:
-            git clone https://github.com/waqi786/Student-Management-System-Tkinter.git
+            git clone https://github.com/waqi786/Student-Management-System.git
 
 2. Navigate to the Directory:
 Move to the directory containing the application script:
-            cd Student-Management-System-Tkinter
+            cd Student-Management-System
 
 3. Install Dependencies:
 The application uses built-in libraries (tkinter, sqlite3, csv) that come with Python. Ensure you have Python 3.x installed on your system.
